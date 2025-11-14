@@ -1,7 +1,6 @@
 
-<p align="center">
-  <img src="banner.png" width="100%" alt="Dual Predation Kinetics Banner">
-</p>
+
+<img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/2ee48c76-73ff-4d5c-ad04-68e6971b1ea8" />
 
 
 ---
