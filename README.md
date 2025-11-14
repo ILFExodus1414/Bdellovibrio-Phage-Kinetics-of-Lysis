@@ -22,9 +22,14 @@ All scripts are modular, fully reproducible, and match the figures included in t
 ---
 
 ## 📂 Repository Structure
+data/                         # Cleaned input datasets (CSV)
+scripts/                      # R scripts for analysis and figure generation
+figures/                      # High-resolution PNG/PDF outputs
+README.md                     # Project documentation
+LICENSE                       # MIT License
+CITATION.cff                  # Citation metadata
+.gitignore                    # Ignore rules for R and temporary files
 
-
----
 
 ## 📊 Statistical Workflow
 
@@ -54,12 +59,27 @@ All scripts are modular, fully reproducible, and match the figures included in t
 
 ## 🔧 Dependencies
 
-This project requires:
+This project uses the following R packages:
+tidyverse
+ggplot2
+viridis
+patchwork
+survival
+survminer
+scales
 
-Install via:
 
 ```r
 install.packages(c("tidyverse", "viridis", "survival", "survminer", "patchwork", "scales"))
 
+
+---
+
+
+
+📄 Citation
+
+If you use this workflow, please cite:
+
 Forteza, I. (2025). Dual Predation Kinetics: EMS–M7f analysis workflow.
-GitHub & Zenodo. DOI: <insert DOI>
+GitHub & Zenodo. DOI: <insert DOI here>
