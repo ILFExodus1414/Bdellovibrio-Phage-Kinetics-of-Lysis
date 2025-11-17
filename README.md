@@ -92,4 +92,17 @@ install.packages(c("tidyverse", "viridis", "survival", "survminer", "patchwork",
 If you use this workflow, please cite:
 
 Forteza, I. (2025). Dual Predation Kinetics: EMS–M7f analysis workflow.
-GitHub & Zenodo. DOI: <insert DOI here>
+GitHub & Zenodo. DOI: https://doi.org/10.5281/zenodo.17626134
+
+
+dual-predation
+Bdellovibrio
+bacteriophage
+microbial-ecology
+lysis-kinetics
+R
+reproducible-research
+survival-analysis
+
+This release corresponds to the archived Zenodo record (DOI: 10.5281/zenodo.17626134).
+
