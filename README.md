@@ -1,3 +1,13 @@
+<p align="center">
+  <a href="https://doi.org/10.5281/zenodo.17626134">
+    <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.17626134.svg" alt="DOI">
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT License">
+  </a>
+  <img src="https://img.shields.io/badge/R-4.x.x-1f72ff" alt="R version">
+  <img src="https://img.shields.io/badge/made%20with-tidyverse-1f77b4" alt="tidyverse">
+</p>
 
 
 <img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/2ee48c76-73ff-4d5c-ad04-68e6971b1ea8" />
